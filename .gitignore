@@ -1,0 +1,15 @@
+# Ignore the compiled db files.
+*.db
+
+# Ignore api_key file.
+api_key.txt
+
+# Ignore pycache.
+__pycache__/
+
+# Ignore tests.
+*tests.py
+
+# Ignore generated pdfs.
+*.pdf
+chat_results.txt
