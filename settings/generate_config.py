@@ -21,7 +21,7 @@ def generate_settings():
         'api_key_path': 'api_key.txt',
         'temperature': '0.3',
         'max_tokens': '8192',
-        'model': 'gpt-4',#optional gpt-3.5-turbo-16k
+        'model': 'gpt-3.5-turbo-16k',#optional gpt-4
         'prompt': '''
         Imagine that you are a person whose job is to produce ideas to move the scientific progress forward.
         Every day your head is filled with novel propositions based upon your high general knowledge of the world, and a very broad and deep scientific experience.
